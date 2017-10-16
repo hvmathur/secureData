@@ -1,0 +1,21 @@
+{
+    "name": "harsh/Crypto",
+    "description": "crypto, crypto class",
+    "license": "MIT",
+    "keywords": ["crypto"],
+    "authors": [
+        {
+            "name": "Harsh V Mathur",
+            "email": "hvmathur@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Harsh\\Crypto\\": "src"
+        }
+    }
+}
