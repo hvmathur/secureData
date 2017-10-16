@@ -1,8 +1,8 @@
 # Secure Data
-encryption and deccryption class
-contains class file used to encrypt or dycrypt data
-Tested on php 5.3 only
-Run CryptoExecute.php in localhost of XAMPP or WAMPP server
+encryption and deccryption class.
+contains class file used to encrypt or dycrypt data.
+Tested on php 5.3 only.
+Run CryptoExecute.php in localhost of XAMPP or WAMPP server.
 
 # Step to run unit test file in cmd (Windows setup)
 1. Download the all the files and folder in local folder and name the folder as "Crypto".
