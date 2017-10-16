@@ -24,8 +24,8 @@ Tested on php 5.3 only.
 # Steps (Windows setup)
    Use composer to insall dependent library
    
-1. Download the all the files and folder into local-folder and name it as "Crypto".
-2. Using Composer Run 'composer install' in win-CMD, command will install dependent libraries in this case "phpunit test library is only required".
+1. Download all the files and folder into local-folder and rename it as "crypto".
+2. Using Composer Run 'composer install' in win-CMD, command will install dependent libraries in this case "phpunit" library is only required.
 
 
 
