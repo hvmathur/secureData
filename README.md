@@ -1,3 +1,5 @@
+This code is done using core PHP. Application developemnt in framework will met all the coding standards along with norms and is widely supported by dependency manager (COMPOSER)
+
 # Explanation
 
 Encryption and decryption class (Crypto.php).
