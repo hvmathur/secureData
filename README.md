@@ -1,11 +1,12 @@
-# Secure Data
-Encryption and decryption class.
+# Explanation
+
+Encryption and decryption class (Crypto.php).
 
 A sample working file "CryptoExecute.php" contails both procedural and class call, run in localhost or in cmd.
 
-An Interface Class base (Icrypter.php) class.
+An Interface base class (Icrypter.php).
 
-An inherited class "Crypto.php" which inherit "Icrypter.php" which is easily pluggable with any application.This call cannot be further inherited for security reasons.
+Class "Crypto.php" which inherit "Icrypter.php" which is easily pluggable with any application.This call cannot be further inherited for security reasons.
 
 A factory Class providing instance (CryptoFactory.php).
 
@@ -19,6 +20,8 @@ Tested on php 5.3 only.
 
 
 # Steps (Windows setup)
+   Use composer to insall dependent library
+   
 1. Download the all the files and folder into local-folder and name it as "Crypto".
 2. Using Composer Run 'composer install' in win-CMD, command will install dependent libraries in this case "phpunit test library is only required".
 
