@@ -7,7 +7,7 @@ An Interface Class base (Icrypter.php) class.
 
 An inherited class "Crypto.php" which inherit "Icrypter.php" which is easily pluggable with any application.
 
-A factory Class providing instance (CryptoFactory.php)
+A factory Class providing instance (CryptoFactory.php).
 
 A unit test class (CryptoTest.php) under "tests/" folder, with Assertions
 
