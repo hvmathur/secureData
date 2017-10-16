@@ -29,7 +29,7 @@ Tested on php 5.3 only.
 
 
 
-      . Namespace path already set to "Harsh\Crypto", feel free to change as per your need, just modify "composer.json"   
+      . Namespace set to "Harsh\Crypto", feel free to change as per your need, just modify "composer.json"   
       
       
       
