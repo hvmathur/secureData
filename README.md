@@ -5,7 +5,7 @@ A sample working file "CryptoExecute.php" contails both procedural and class cal
 
 An Interface Class base (Icrypter.php) class.
 
-An inherited class "Crypto.php" which inherit "Icrypter.php" which is easily pluggable with any application.
+An inherited class "Crypto.php" which inherit "Icrypter.php" which is easily pluggable with any application.This call cannot be further inherited for security reasons.
 
 A factory Class providing instance (CryptoFactory.php).
 
